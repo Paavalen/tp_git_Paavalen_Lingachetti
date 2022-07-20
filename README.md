@@ -5,26 +5,26 @@
 
 Ce script python calcule la somme de deux entiers.
 
-
 ## Comment Télécharger
 
 #### Step 1
-Switcher ver la branch dev.
+clicker sur tag
 
 #### Step 2
-chicker sur code.
+choissez la dernière version
 
 #### Step 3
-clicker sur Download zip.
- 
+clicker sur Source Code (zip)
+
+#### Step 4 
+Décompresser 
 
 ## Comment exécuter
 
-Décompresser le zip.
-aller sur le terminal linux et taper:
+sur le terminal linux taper:
 
 ```sh
 ./addTwoInt.py x y
 ```
-Remplacer x y par les nombre à ajouter.
-Vous pouvez aussi entrer aucun argument.
+x y sont les number a ajouter.
+vous pouvez aussi entrer aucun argument.

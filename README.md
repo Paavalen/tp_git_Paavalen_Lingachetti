@@ -3,28 +3,28 @@
 
 ## Description
 
-Ce script python calcule la somme de deux entiers.
+Ce script python permet de calculer la somme de deux entiers.
+
 
 ## Comment Télécharger
 
 #### Step 1
-clicker sur tag
+Switcher ver la branche dev.
 
 #### Step 2
-choissez la dernière version
+Clicker sur code.
 
 #### Step 3
-clicker sur Source Code (zip)
+Clicker sur Download zip.
 
-#### Step 4 
-Décompresser 
 
-## Comment exécuter
+## Comment Exécuter
 
-sur le terminal linux taper:
+Décompresser le fichier zip. 
+Aller sur le terminal linux et taper:
 
 ```sh
 ./addTwoInt.py x y
 ```
-x y sont les number a ajouter.
-vous pouvez aussi entrer aucun argument.
+Remplacer x y par les nombre à ajouter.
+Vous pouvez aussi entrer aucun argument.
